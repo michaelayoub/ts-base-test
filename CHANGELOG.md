@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.1...ts-base-testing-v1.2.2) (2026-02-01)
+
+
+### Bug Fixes
+
+* add return types for jsr ([7865876](https://github.com/michaelayoub/ts-base-test/commit/7865876a135ac4f21977eea8718531d6a95da83c))
+
 ## [1.2.1](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.0...ts-base-testing-v1.2.1) (2026-02-01)
 
 
