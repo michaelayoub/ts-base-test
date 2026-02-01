@@ -4,7 +4,7 @@
   "prerelease": true,
   "packages": {
     ".": {
-      "package-name": "@bgub/ts-base",
+      "package-name": "@michaelayoub/ts-base-testing",
       "extra-files": ["jsr.json"],
       "prerelease-type": "alpha"
     }

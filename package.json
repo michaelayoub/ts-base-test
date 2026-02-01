@@ -1,13 +1,13 @@
 {
-  "name": "@bgub/ts-base",
-  "version": "1.0.2",
+  "name": "@michaelayoub/ts-base-test",
+  "version": "0.0.0",
   "description": "Starter template for TS libraries",
   "keywords": [
     "starter",
     "library",
     "typescript"
   ],
-  "homepage": "https://github.com/bgub/ts-base",
+  "homepage": "https://github.com/michaelayoub/ts-base-test",
   "type": "module",
   "exports": {
     ".": {
@@ -33,11 +33,10 @@
     "test": "vitest run --coverage",
     "size": "size-limit"
   },
-  "author": "Ben Gubler <nebrelbug@gmail.com>",
-  "funding": "https://github.com/bgub/ts-base?sponsor=1",
-  "repository": "github:bgub/ts-base",
+  "author": "Michael Ayoub <npm@michael.ayoub.io>",
+  "repository": "github:michaelayoub/ts-base-testing",
   "bugs": {
-    "url": "https://github.com/bgub/ts-base/issues"
+    "url": "github:michaelayoub/ts-base-testing/issues"
   },
   "license": "MIT",
   "engines": {
