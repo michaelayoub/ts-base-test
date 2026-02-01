@@ -3,6 +3,7 @@ import { describe, expect, it, vi } from "vitest";
 import {
   add,
   adder,
+  divider,
   getRandomId,
   greet,
   multiplier,
@@ -30,6 +31,16 @@ describe("core: subtracter", () => {
 describe("core: multiplier", () => {
   it("makes a multiplier", () => {
     expect(multiplier(5)(5)).toBe(25);
+  });
+});
+
+describe("core: divider", () => {
+  it("makes a divider", () => {
+    expect(divider(10)(5)).toBe(2);
+  });
+
+  it("doesn't divide by zero", () => {
+    expect(() => divider(10)(0)).toThrow();
   });
 });
 
