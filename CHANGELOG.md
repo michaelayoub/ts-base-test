@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.0.0...ts-base-testing-v1.1.0) (2026-02-01)
+
+
+### Features
+
+* multiplier ([#5](https://github.com/michaelayoub/ts-base-test/issues/5)) ([fe8a3cc](https://github.com/michaelayoub/ts-base-test/commit/fe8a3cc26a6029378454552a02e7f487905fffc4))
+
 ## 1.0.0 (2026-02-01)
 
 
