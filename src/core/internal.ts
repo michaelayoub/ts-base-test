@@ -62,6 +62,15 @@ export function divider(a: number): (b: number) => number {
 }
 
 /**
+ * Returns a function that squares its argument.
+ * @param a - The number to square.
+ * @returns A function that produces the square of a
+ */
+export function squarer(a: number): () => number {
+  return () => a * a;
+}
+
+/**
  * Greets a person by name.
  * @param name - The person's name
  * @param options - Greeting options

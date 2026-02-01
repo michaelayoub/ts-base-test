@@ -7,6 +7,7 @@ import {
   getRandomId,
   greet,
   multiplier,
+  squarer,
   subtracter,
 } from "../src/core/internal";
 
@@ -41,6 +42,12 @@ describe("core: divider", () => {
 
   it("doesn't divide by zero", () => {
     expect(() => divider(10)(0)).toThrow();
+  });
+});
+
+describe("core: squarer", () => {
+  it("squares a number", () => {
+    expect(squarer(5)()).toBe(25);
   });
 });
 

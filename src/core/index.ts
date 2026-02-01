@@ -6,6 +6,7 @@ export {
   getRandomId,
   greet,
   multiplier,
+  squarer,
   subtracter,
 } from "./internal";
 
