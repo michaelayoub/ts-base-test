@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.4...ts-base-testing-v1.3.0) (2026-02-01)
+
+
+### Features
+
+* squarer ([773f303](https://github.com/michaelayoub/ts-base-test/commit/773f303eff053d26b7e2ad06ef4ac880217daba3))
+
 ## [1.2.4](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.3...ts-base-testing-v1.2.4) (2026-02-01)
 
 
