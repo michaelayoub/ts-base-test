@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.3...ts-base-testing-v1.2.4) (2026-02-01)
+
+
+### Bug Fixes
+
+* add jsdoc ([b7d3b27](https://github.com/michaelayoub/ts-base-test/commit/b7d3b27a8743423d0591d70270567a2d6614908b))
+
 ## [1.2.3](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.2...ts-base-testing-v1.2.3) (2026-02-01)
 
 
