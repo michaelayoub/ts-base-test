@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.1.1...ts-base-testing-v1.2.0) (2026-02-01)
+
+
+### Features
+
+* add a divider ([d661767](https://github.com/michaelayoub/ts-base-test/commit/d66176726e223b6fef4c99d72565cf78d2c1ea04))
+
 ## [1.1.1](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.1.0...ts-base-testing-v1.1.1) (2026-02-01)
 
 
