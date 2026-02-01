@@ -1,6 +1,12 @@
 import { describe, expect, it, vi } from "vitest";
 
-import { add, adder, getRandomId, greet } from "../src/core/internal";
+import {
+  add,
+  adder,
+  getRandomId,
+  greet,
+  subtracter,
+} from "../src/core/internal";
 
 describe("core: add", () => {
   it("adds two numbers", () => {
@@ -11,6 +17,12 @@ describe("core: add", () => {
 describe("core: adder", () => {
   it("makes an adder", () => {
     expect(adder(3)(5)).toBe(8);
+  });
+});
+
+describe("core: subtracter", () => {
+  it("makes a subtracter", () => {
+    expect(subtracter(5)(3)).toBe(2);
   });
 });
 

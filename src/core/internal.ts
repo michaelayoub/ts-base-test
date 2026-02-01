@@ -13,6 +13,10 @@ export function adder(a: number) {
   return (b: number) => a + b;
 }
 
+export function subtracter(a: number) {
+  return (b: number) => a - b;
+}
+
 export function greet(name: string, options: CoreOptions = {}): string {
   const base = `Hello, ${name}`;
   return options.shout ? `${base.toUpperCase()}!` : `${base}.`;
