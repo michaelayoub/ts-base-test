@@ -17,7 +17,7 @@ export function subtracter(a: number): (b: number) => number {
   return (b: number) => a - b;
 }
 
-export function multiplier(a: number) {
+export function multiplier(a: number): (b: number) => number {
   return (b: number) => a * b;
 }
 
