@@ -5,6 +5,7 @@ import {
   adder,
   getRandomId,
   greet,
+  multiplier,
   subtracter,
 } from "../src/core/internal";
 
@@ -23,6 +24,12 @@ describe("core: adder", () => {
 describe("core: subtracter", () => {
   it("makes a subtracter", () => {
     expect(subtracter(5)(3)).toBe(2);
+  });
+});
+
+describe("core: multiplier", () => {
+  it("makes a multiplier", () => {
+    expect(multiplier(5)(5)).toBe(25);
   });
 });
 
