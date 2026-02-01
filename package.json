@@ -36,7 +36,7 @@
   "author": "Michael Ayoub <npm@michael.ayoub.io>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelayoub/ts-base-testing.git"
+    "url": "https://github.com/michaelayoub/ts-base-test"
   },
   "bugs": {
     "url": "github:michaelayoub/ts-base-testing/issues"
