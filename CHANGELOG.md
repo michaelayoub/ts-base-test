@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.1.0...ts-base-testing-v1.1.1) (2026-02-01)
+
+
+### Bug Fixes
+
+* package.json url ([#7](https://github.com/michaelayoub/ts-base-test/issues/7)) ([8da0b4d](https://github.com/michaelayoub/ts-base-test/commit/8da0b4d774dacdd936c2aab55f11ca02a93d81c5))
+
 ## [1.1.0](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.0.0...ts-base-testing-v1.1.0) (2026-02-01)
 
 
