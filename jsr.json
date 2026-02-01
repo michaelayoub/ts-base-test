@@ -2,7 +2,7 @@
   "name": "@michaelayoub/ts-base-testing",
   "version": "1.2.0",
   "license": "MIT",
-  "exports": "./src/index.ts",
+  "exports": "./src/core/index.ts",
   "publish": {
     "include": [
       "LICENSE",
