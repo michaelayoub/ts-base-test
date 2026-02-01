@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.2...ts-base-testing-v1.2.3) (2026-02-01)
+
+
+### Bug Fixes
+
+* add missing return type ([7cc71e5](https://github.com/michaelayoub/ts-base-test/commit/7cc71e54e9eda07fba6aa12b09ed5d8a5f8d2dd5))
+
 ## [1.2.2](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.1...ts-base-testing-v1.2.2) (2026-02-01)
 
 
