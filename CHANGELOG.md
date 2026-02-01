@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.2.0...ts-base-testing-v1.2.1) (2026-02-01)
+
+
+### Bug Fixes
+
+* jsr.json, browser export, node export ([7a7ac9b](https://github.com/michaelayoub/ts-base-test/commit/7a7ac9b3ddcc1665d68230fea212a17b4aa465df))
+
 ## [1.2.0](https://github.com/michaelayoub/ts-base-test/compare/ts-base-testing-v1.1.1...ts-base-testing-v1.2.0) (2026-02-01)
 
 
