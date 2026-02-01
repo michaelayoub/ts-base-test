@@ -1,6 +1,6 @@
 {
   "name": "@michaelayoub/ts-base-testing",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "license": "MIT",
   "exports": "./src/core/index.ts",
   "publish": {
