@@ -9,6 +9,10 @@ export function add(a: number, b: number): number {
   return a + b;
 }
 
+export function adder(a: number) {
+  return (b: number) => a + b;
+}
+
 export function greet(name: string, options: CoreOptions = {}): string {
   const base = `Hello, ${name}`;
   return options.shout ? `${base.toUpperCase()}!` : `${base}.`;
