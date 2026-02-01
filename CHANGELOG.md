@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2026-02-01)
+
+
+### Features
+
+* Add adder. ([#1](https://github.com/michaelayoub/ts-base-test/issues/1)) ([c3d3d34](https://github.com/michaelayoub/ts-base-test/commit/c3d3d3455dabbc0b04a330cb69436a3502db4876))
+
 ## [1.0.2](https://github.com/bgub/ts-base/compare/ts-base-v1.0.1...ts-base-v1.0.2) (2025-09-17)
 
 
