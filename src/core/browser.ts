@@ -9,6 +9,10 @@ export {
   subtracter,
 } from "./internal";
 
+/**
+ * Generates a deterministic random ID combining timestamp and random parts.
+ * @returns A string ID in format "timestamp-randompart"
+ */
 export function getSecureRandomId(): string {
   const timePart = Date.now().toString(36);
   const array = new Uint8Array(12);
