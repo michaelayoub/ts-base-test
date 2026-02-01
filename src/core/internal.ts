@@ -9,11 +9,11 @@ export function add(a: number, b: number): number {
   return a + b;
 }
 
-export function adder(a: number) {
+export function adder(a: number): (b: number) => number {
   return (b: number) => a + b;
 }
 
-export function subtracter(a: number) {
+export function subtracter(a: number): (b: number) => number {
   return (b: number) => a - b;
 }
 
@@ -21,7 +21,7 @@ export function multiplier(a: number) {
   return (b: number) => a * b;
 }
 
-export function divider(a: number) {
+export function divider(a: number): (b: number) => number {
   return (b: number) => {
     if (b === 0) {
       throw new Error("division by zero");
